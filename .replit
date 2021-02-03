@@ -1,0 +1,2 @@
+language = "python3"
+run = "pip install discord\nclear\npip install PyNaCl\npip install youtube_dl\nclear\npython main.py"
