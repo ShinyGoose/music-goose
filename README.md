@@ -1,0 +1,2 @@
+# music-goose
+music bot
